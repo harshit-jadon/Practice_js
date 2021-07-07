@@ -20,3 +20,7 @@ for(let r=0; r<5; r++){
    sum += number ;
    console.log("Sum ======== " + sum);
 }
+//5(a)
+let ONE_FEET = 12;
+let conversion = 42 / ONE_FEET;
+console.log(conversion);
